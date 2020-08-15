@@ -18,14 +18,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/HACaballero/Aliandel.git"
+        "url": "git+https://https://github.com/HACaballero/Backend-GraphQL-Base.git"
     },
     "author": "Alexis Caballero",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/HACaballero/Aliandel/issues"
+        "url": "https://github.com/HACaballero/Backend-GraphQL-Base/issues"
     },
-    "homepage": "https://github.com/HACaballero/Aliandel#readme",
+    "homepage": "https://github.com/HACaballero/Backend-GraphQL-Base#readme",
     "dependencies": {
         "apollo-server-express": "^2.15.1",
         "bcryptjs": "^2.4.3",
